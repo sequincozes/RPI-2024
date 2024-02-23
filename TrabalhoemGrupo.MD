@@ -3,39 +3,39 @@ Este repositório contém todos os arquivos e documentações relacionados ao pr
 
 ## HISTÓRIAS DE USUÁRIO
 
-[HU01] Como usuário do sistema, eu quero logar na minha conta usando meu login e senha para que eu possa realizar as tarefas que são de minha responsabilidade.
+* [HU01] Como usuário do sistema, eu quero logar na minha conta usando meu login e senha para que eu possa realizar as tarefas que são de minha responsabilidade.
 
-[HU02] Como secretaria, eu quero cadastrar, atualizar e excluir informações dos usuários para organizar o processo de agendamentos de refeição.
+* [HU02] Como secretaria, eu quero cadastrar, atualizar e excluir informações dos usuários para organizar o processo de agendamentos de refeição.
 
-[HU03] Como secretaria, eu quero fazer a liberação do aluno/servidor, quando houver bloqueio parcial do usuário, devido a repetição tripla de não presença após agendamento, para que o aluno siga usando o sistema de agendamentos.
+* [HU03] Como secretaria, eu quero fazer a liberação do aluno/servidor, quando houver bloqueio parcial do usuário, devido a repetição tripla de não presença após agendamento, para que o aluno siga usando o sistema de agendamentos.
 
-[HU04] Como aluno/servidor, eu quero visualizar o cardápio para que eu possa decidir se eu irei realizar o agendamento ou não.
+* [HU04] Como aluno/servidor, eu quero visualizar o cardápio para que eu possa decidir se eu irei realizar o agendamento ou não.
 
-[HU05] Como aluno/servidor, eu quero visualizar com destaque as mudanças no cardápio para que eu possa decidir se irei manter meu agendamento ou cancela-lo.
+* [HU05] Como aluno/servidor, eu quero visualizar com destaque as mudanças no cardápio para que eu possa decidir se irei manter meu agendamento ou cancela-lo.
 
-[HU06] Como aluno/servidor, eu quero agendar minhas refeições, para poder jantar.
+* [HU06] Como aluno/servidor, eu quero agendar minhas refeições, para poder jantar.
 
-[HU07] Como aluno/servidor, eu quero ser notificado quando não houver refeições no dia para eu não ir ao refeitório em vão.
+* [HU07] Como aluno/servidor, eu quero ser notificado quando não houver refeições no dia para eu não ir ao refeitório em vão.
 
-[HU08] Como aluno/servidor, eu quero que o programa tenha a possibilidade de desmarcar o agendamento para eu não ser punido por faltar.
+* [HU08] Como aluno/servidor, eu quero que o programa tenha a possibilidade de desmarcar o agendamento para eu não ser punido por faltar.
 
-[HU09] Como administração da escola, eu quero ter controle de quantos alunos em média vão ao refeitório para que eu consiga visualizar os dias de maior demanda.
+* [HU09] Como administração da escola, eu quero ter controle de quantos alunos em média vão ao refeitório para que eu consiga visualizar os dias de maior demanda.
 
-[HU10] Como administração da escola, eu quero ter acesso a um relatório que cruze os dados de agendamento e refeições para eu assegurar que o agendamento está funcionando de maneira satisfatória.
+* [HU10] Como administração da escola, eu quero ter acesso a um relatório que cruze os dados de agendamento e refeições para eu assegurar que o agendamento está funcionando de maneira satisfatória.
 
-[HU11] Como administração da escola, eu quero poder modificar o cardápio quando necessário para quando os auxiliares de cozinha não conseguirem fazer a alteração, eu possa fazê-la.
+* [HU11] Como administração da escola, eu quero poder modificar o cardápio quando necessário para quando os auxiliares de cozinha não conseguirem fazer a alteração, eu possa fazê-la.
 
-[HU12] Como equipe da cozinha, eu quero atualizar o cardápio caso não haja refeição no dia para que os usuários não terem a possibilidade de realizar agendamentos no dia.
+* [HU12] Como equipe da cozinha, eu quero atualizar o cardápio caso não haja refeição no dia para que os usuários não terem a possibilidade de realizar agendamentos no dia.
 
-[HU13] Como equipe da cozinha, eu quero analisar a quantidade de pessoas que agendaram refeições no dia, para eu preparar somente a quantidade necessária de alimentos.
+* [HU13] Como equipe da cozinha, eu quero analisar a quantidade de pessoas que agendaram refeições no dia, para eu preparar somente a quantidade necessária de alimentos.
 
-[HU14] Como equipe da cozinha, eu quero modificar informações do cardápio, quando necessário, para que o sistema seja atualizado e assegurar a adesão.
+* [HU14] Como equipe da cozinha, eu quero modificar informações do cardápio, quando necessário, para que o sistema seja atualizado e assegurar a adesão.
 
-[HU15] Como porteiro(a), eu quero validar os QR Codes gerados após agendamento para eu poder confirmar ou não o agendamento do usuário.
+* [HU15] Como porteiro(a), eu quero validar os QR Codes gerados após agendamento para eu poder confirmar ou não o agendamento do usuário.
 
-[HU16] Como porteiro(a), eu quero ter acesso ao numero de agendamentos feitos no dia para averiguar se há uma quantidade satisfatória de alimentos para uma possivel refeição sem agendamento.
+* [HU16] Como porteiro(a), eu quero ter acesso ao numero de agendamentos feitos no dia para averiguar se há uma quantidade satisfatória de alimentos para uma possivel refeição sem agendamento.
 
-[HU17] Como porteiro(a), desejo acessar a lista de usuários agendados para eu poder confirmar a identidade daqueles na fila que não apresentarem comprovação de agendamento, verificando assim seus nomes.
+* [HU17] Como porteiro(a), desejo acessar a lista de usuários agendados para eu poder confirmar a identidade daqueles na fila que não apresentarem comprovação de agendamento, verificando assim seus nomes.
 
 ## REQUISITOS NÃO-FUNCIONAIS
 * [RNF01] Sistema poderá emitir um registro dos excessos/faltas de comida.
